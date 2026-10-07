@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "text": "Aufgrund eines technisches Defektes des Lieferfahrzeuges verspätet sich die Lieferung.",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "incident",
+  "inTransportETA": {
+    "from": 1793566800,
+    "to": 1793573999
+  }
+}

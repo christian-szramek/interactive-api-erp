@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "text": "Ihre Medikamente wurden soeben geliefert. Gute Besserung, Ihre Apotheke.",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "delivered",
+  "inTransportETA": {
+    "from": 1791386100,
+    "to": 1791389700
+  }
+}
