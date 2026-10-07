@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "link",
+  "url": "https://example.com",
+  "text": "Hier finden Sie unsere Website."
+}

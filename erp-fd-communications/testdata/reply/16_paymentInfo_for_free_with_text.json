@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "text": "Glück gehabt!",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "paymentInfo",
+  "totalAmount": 0,
+  "paymentMethods": []
+}

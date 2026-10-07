@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "text": "Ihre Medikamente sind angekommen, Gute Genesung!",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "delivered"
+}

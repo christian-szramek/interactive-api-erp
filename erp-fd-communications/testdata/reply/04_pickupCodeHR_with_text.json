@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "text": "Bitte kommen Sie morgen zwischen 12 und 13 Uhr.",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "pickupCodeHR",
+  "pickupCodeHR": "0815"
+}

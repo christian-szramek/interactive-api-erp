@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "text": "Sorry, Grippewelle :/ Wir kommen morgen.",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "incident"
+}

@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "text": "Der Bote is jetzt unterwegs!",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "inTransport",
+  "inTransportPosition": {
+    "long": 13.413244,
+    "lat": 52.521992
+  },
+  "inTransportETA": {
+    "from": 1785520800,
+    "to": 1785526200
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "text": "Bitte den Betrag nicht eigenständig kürzen!",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "paymentInfo",
+  "totalAmount": 2450,
+  "paymentMethods": [
+    {
+      "method": "bankaccount",
+      "url": "https://my.payment.provider.de/pay/<payment_transaction_id>"
+    }
+  ]
+}

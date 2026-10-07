@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "paymentInfo",
+  "totalAmount": 24.5,
+  "paymentMethods": []
+}
