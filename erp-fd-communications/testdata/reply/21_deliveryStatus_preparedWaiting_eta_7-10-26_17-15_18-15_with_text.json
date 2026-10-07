@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "text": "Wir verpacken gerade Ihre Medikamente.",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "deliveryStatus",
+  "deliveryStatus": "preparedWaiting",
+  "inTransportETA": {
+    "from": 1791386100,
+    "to": 1791389700
+  }
+}
