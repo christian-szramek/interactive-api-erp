@@ -4,6 +4,10 @@
   "transactionID": "ABCD-EFGH-IJKL-MNOP",
   "communicationType": "deliveryStatus",
   "deliveryStatus": "delivered",
+  "inTransportPosition": {
+    "long": 13.413244,
+    "lat": 52.521992
+  },
   "inTransportETA": {
     "from": 1791386100,
     "to": 1791389700
