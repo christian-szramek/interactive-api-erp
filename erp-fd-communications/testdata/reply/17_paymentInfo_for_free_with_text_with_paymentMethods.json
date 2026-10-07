@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "text": "Glück gehabt!",
+  "transactionID": "ABCD-EFGH-IJKL-MNOP",
+  "communicationType": "paymentInfo",
+  "totalAmount": 0,
+  "paymentMethods": [
+    {
+      "method": "cash"
+    },
+    {
+      "method": "creditcard",
+      "url": "https://my.payment.provider.de/pay/<payment_transaction_id>"
+    },
+    {
+      "method": "bankaccount",
+      "url": "https://my.payment.provider.de/pay/<payment_transaction_id>"
+    },
+    {
+      "method": "paypal",
+      "url": "https://paypal.me/<some_account>"
+    }
+  ]
+}
