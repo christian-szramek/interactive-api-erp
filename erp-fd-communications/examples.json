@@ -32,7 +32,7 @@
     "24_deliveryStatus_delivered": "{\n  \"version\": 3,\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"delivered\"\n}\n",
     "25_deliveryStatus_delivered_with_text": "{\n  \"version\": 3,\n  \"text\": \"Ihre Medikamente wurden soeben geliefert. Gute Besserung, Ihre Apotheke.\",\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"delivered\"\n}\n",
     "26_deliveryStatus_incident": "{\n  \"version\": 3,\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"incident\"\n}\n",
-    "27_deliveryStatus_incident_with_text": "{\n  \"version\": 3,\n  \"text\": \"Sorry, Grippewelle :/ Wir kommen morgen.\",\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"incident\"\n}\n",
+    "27_deliveryStatus_incident_with_text": "{\n  \"version\": 3,\n  \"text\": \"Aufgrund eines technisches Defektes der Lieferfahrzeuges verspätet sich die Lieferung.\",\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"incident\"\n}\n",
     "28_deliveryStatus_incident_eta_31_12_26_0_3_hackescher_markt": "{\n  \"version\": 3,\n  \"transactionID\": \"ABCD-EFGH-IJKL-MNOP\",\n  \"communicationType\": \"deliveryStatus\",\n  \"deliveryStatus\": \"incident\",\n  \"inTransportPosition\": {\n    \"long\": 13.402195793605172,\n    \"lat\": 52.522639939635795\n  },\n  \"inTransportETA\": {\n    \"from\": 1798671600,\n    \"to\": 1798682400\n  }\n}\n"
   }
 }
